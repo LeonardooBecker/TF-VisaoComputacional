@@ -1,0 +1,20 @@
+path: /content/newDataset
+train: ./train/images
+val: ./valid/images
+
+nc: 12
+names: [
+  "20kmh",
+  "30kmh",
+  "40kmh",
+  "50kmh",
+  "60kmh",
+  "70kmh",
+  "80kmh",
+  "90kmh",
+  "100kmh",
+  "preferencia",
+  "pare",
+  "estacionamento"
+]
+
